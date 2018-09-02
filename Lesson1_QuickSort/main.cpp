@@ -64,15 +64,15 @@ void random(int a[N])
 
 int main ()
 {
-	int arr[]={3,1,7,8,2,6,9};
-	//random(arr);
+	int arr[N];
+	random(arr);
     int size = sizeof(arr)/sizeof(int);
-//    printf("Mang ban dau la:\n\n");
-//    output(arr,size);
-    //printf("%d\n", partition(arr,0,6));
-    partition(arr,0,size-1);
+	printf("Mang ban dau la:\n\n");
+	output(arr,size);
+	printf("%d\n", partition(arr,0,6));
+    //partition(arr,0,size-1);
 	quick_sort(arr,0,size-1);
-	//printf("\nMang sau khi sap xep la:\n\n");
+	printf("\nMang sau khi sap xep la:\n\n");
 	output(arr,size);
     //printf("%d",sizeof(arr)/sizeof(int));
 	getch();
