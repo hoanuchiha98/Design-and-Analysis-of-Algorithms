@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/hoanitmta/Desktop/Design-and-Analysis-of-Algorithms/Lec4_Backtracking_Method/Nguadituan/main.cpp
+iostream
+-
+iomanip
+-
+

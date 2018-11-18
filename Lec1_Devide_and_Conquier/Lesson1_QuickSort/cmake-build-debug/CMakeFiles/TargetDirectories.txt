@@ -1,0 +1,3 @@
+/home/adcit/Desktop/Design-and-Analysis-of-Algorithms_alias/Lec1_Devide_and_Conquier/Lesson1_QuickSort/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/adcit/Desktop/Design-and-Analysis-of-Algorithms_alias/Lec1_Devide_and_Conquier/Lesson1_QuickSort/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/adcit/Desktop/Design-and-Analysis-of-Algorithms_alias/Lec1_Devide_and_Conquier/Lesson1_QuickSort/cmake-build-debug/CMakeFiles/Lesson1_QuickSort.dir

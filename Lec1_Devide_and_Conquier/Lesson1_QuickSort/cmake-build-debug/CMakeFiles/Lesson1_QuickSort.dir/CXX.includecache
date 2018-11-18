@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/adcit/Desktop/Design-and-Analysis-of-Algorithms_alias/Lec1_Devide_and_Conquier/Lesson1_QuickSort/main.cpp
+stdio.h
+-
+stdlib.h
+-
+

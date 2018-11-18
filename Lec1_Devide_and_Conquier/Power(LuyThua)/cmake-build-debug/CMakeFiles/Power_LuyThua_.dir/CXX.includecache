@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/hoanitmta/Desktop/Design-and-Analysis-of-Algorithms/Lec1_Devide_and_Conquier/Power(LuyThua)/main.cpp
+stdio.h
+/Users/hoanitmta/Desktop/Design-and-Analysis-of-Algorithms/Lec1_Devide_and_Conquier/Power(LuyThua)/stdio.h
+

@@ -1,0 +1,3 @@
+/Users/hoanitmta/Desktop/Design-and-Analysis-of-Algorithms/Lec4_Backtracking_Method/Nguadituan/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/hoanitmta/Desktop/Design-and-Analysis-of-Algorithms/Lec4_Backtracking_Method/Nguadituan/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/hoanitmta/Desktop/Design-and-Analysis-of-Algorithms/Lec4_Backtracking_Method/Nguadituan/cmake-build-debug/CMakeFiles/Nguadituan.dir

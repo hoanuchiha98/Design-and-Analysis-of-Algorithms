@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/hoanitmta/Desktop/Design-and-Analysis-of-Algorithms/Lec1_Devide_and_Conquier/Lesson5_Karatsuba/main.cpp
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Lesson1_QuickSort.dir/main.cpp.o  -o Lesson1_QuickSort 
